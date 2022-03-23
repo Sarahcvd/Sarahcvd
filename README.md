@@ -1,7 +1,5 @@
 ## Hi I'm Sarah, nice to see you here 👋🏻
 
-
-
 ---
 
 ### Connect with me:
@@ -13,6 +11,8 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/sarahcvd#gh-dark-mode-only)
 
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarahcvd&label=Views&color=red&style=plastic" alt="iampawan" /> </p>
 
 <summary>:zap: GitHub Stats</summary>
 
