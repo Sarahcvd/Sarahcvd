@@ -9,8 +9,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sarah-christine-van-dijk-641ab1142/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sarah-christine-van-dijk-641ab1142/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/sarahcvd#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/sarahcvd#gh-dark-mode-only)
 
 ---
 
@@ -23,5 +23,5 @@
 <br />
 
 
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://instagram.com/sarahcvd
+[linkedin]: https://linkedin.com/in/sarah-christine-van-dijk-641ab1142
