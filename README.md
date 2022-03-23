@@ -14,13 +14,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarahcvd&label=Views&color=red&style=plastic" alt="iampawan" /> </p>
 
+<details>
+  
 <summary>:zap: GitHub Stats</summary>
-
-<br />
 
 <img align="left" alt="sarahcvd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sarahcvd&show_icons=true&hide_border=true&theme=synthwave" />
 
-<br />
+</details>
 
 
 [instagram]: https://instagram.com/sarahcvd
